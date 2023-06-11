@@ -7,7 +7,7 @@ import java.util.Arrays;
  *
  * @author   Terrence Bamberg
  * @author   Dean Hendrix
- * @version  1/13/2020
+ * @version  2/1/2023
  *
  */
 public final class ArraySelector {
